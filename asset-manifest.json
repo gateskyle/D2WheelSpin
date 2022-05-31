@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f9ebda83.chunk.css",
+    "main.js": "/static/js/main.78705aa6.chunk.js",
+    "main.js.map": "/static/js/main.78705aa6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fb07ba4e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fb07ba4e.js.map",
+    "static/js/2.76defe6b.chunk.js": "/static/js/2.76defe6b.chunk.js",
+    "static/js/2.76defe6b.chunk.js.map": "/static/js/2.76defe6b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f9ebda83.chunk.css.map": "/static/css/main.f9ebda83.chunk.css.map",
+    "static/js/2.76defe6b.chunk.js.LICENSE.txt": "/static/js/2.76defe6b.chunk.js.LICENSE.txt",
+    "static/media/DeepSix.d023169f.jpg": "/static/media/DeepSix.d023169f.jpg",
+    "static/media/EmeraldCoast.2b761320.jpg": "/static/media/EmeraldCoast.2b761320.jpg",
+    "static/media/LegionsFolly.981d7a2d.jpg": "/static/media/LegionsFolly.981d7a2d.jpg",
+    "static/media/NewArcadia.42e7c235.jpg": "/static/media/NewArcadia.42e7c235.jpg",
+    "static/media/Gambit.css": "/static/media/gambitbackground.3097df23.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb07ba4e.js",
+    "static/js/2.76defe6b.chunk.js",
+    "static/css/main.f9ebda83.chunk.css",
+    "static/js/main.78705aa6.chunk.js"
+  ]
+}
