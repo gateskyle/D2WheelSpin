@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Wheel-Spinning-Thingy/static/css/main.bc31471e.chunk.css",
+    "main.js": "/Wheel-Spinning-Thingy/static/js/main.d336bcf0.chunk.js",
+    "main.js.map": "/Wheel-Spinning-Thingy/static/js/main.d336bcf0.chunk.js.map",
+    "runtime-main.js": "/Wheel-Spinning-Thingy/static/js/runtime-main.2a137ab0.js",
+    "runtime-main.js.map": "/Wheel-Spinning-Thingy/static/js/runtime-main.2a137ab0.js.map",
+    "static/js/2.76defe6b.chunk.js": "/Wheel-Spinning-Thingy/static/js/2.76defe6b.chunk.js",
+    "static/js/2.76defe6b.chunk.js.map": "/Wheel-Spinning-Thingy/static/js/2.76defe6b.chunk.js.map",
+    "static/js/3.4bc97d82.chunk.js": "/Wheel-Spinning-Thingy/static/js/3.4bc97d82.chunk.js",
+    "static/js/3.4bc97d82.chunk.js.map": "/Wheel-Spinning-Thingy/static/js/3.4bc97d82.chunk.js.map",
+    "index.html": "/Wheel-Spinning-Thingy/index.html",
+    "static/css/main.bc31471e.chunk.css.map": "/Wheel-Spinning-Thingy/static/css/main.bc31471e.chunk.css.map",
+    "static/js/2.76defe6b.chunk.js.LICENSE.txt": "/Wheel-Spinning-Thingy/static/js/2.76defe6b.chunk.js.LICENSE.txt",
+    "static/media/DeepSix.d023169f.jpg": "/Wheel-Spinning-Thingy/static/media/DeepSix.d023169f.jpg",
+    "static/media/EmeraldCoast.2b761320.jpg": "/Wheel-Spinning-Thingy/static/media/EmeraldCoast.2b761320.jpg",
+    "static/media/LegionsFolly.981d7a2d.jpg": "/Wheel-Spinning-Thingy/static/media/LegionsFolly.981d7a2d.jpg",
+    "static/media/NewArcadia.42e7c235.jpg": "/Wheel-Spinning-Thingy/static/media/NewArcadia.42e7c235.jpg",
+    "static/media/Gambit.css": "/Wheel-Spinning-Thingy/static/media/gambitbackground.3097df23.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a137ab0.js",
+    "static/js/2.76defe6b.chunk.js",
+    "static/css/main.bc31471e.chunk.css",
+    "static/js/main.d336bcf0.chunk.js"
+  ]
+}
